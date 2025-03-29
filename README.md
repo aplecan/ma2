@@ -3,11 +3,8 @@
 ***
 
 ### Group members
-| Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Alexandru Plecan | 173265 |
+
 
 ***
 
